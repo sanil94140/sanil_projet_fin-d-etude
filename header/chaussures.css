@@ -10,6 +10,7 @@ body {
 
 ul {
   list-style: none;
+  width: 100%;
 }
 img {
   max-width: 100%;
@@ -89,7 +90,9 @@ main {
   padding: 15px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+}
+
+main div {
 }
 
 .flecheGauche,
